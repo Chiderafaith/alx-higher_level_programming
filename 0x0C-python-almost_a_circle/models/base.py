@@ -133,3 +133,4 @@ class Base:
             list_ins.append(cls.create(**matrix[index]))
 
         return list_ins
+        
